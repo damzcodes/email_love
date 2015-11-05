@@ -1,0 +1,4 @@
+== Email Love
+
+A small practice app that allows you to choose a poem genre and then sends a poem to your email.
+Practice using Mandrill API & gem, & mandrill_mailer gem.
